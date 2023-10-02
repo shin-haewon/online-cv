@@ -51,9 +51,11 @@ education:
         university: Dongguk University
         time: 2017 - 2021
         details: |
-          Thesis: Study on temperature sensing nanomaterials and the fabrication of patch type temperature sensor
-	      Advisor: Prof. Jinsik Kim
-
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
             - Bullet point
             - Bullet point
 
