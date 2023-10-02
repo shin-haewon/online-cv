@@ -40,26 +40,15 @@ education:
         university: Korea University
         time: 2022-present
          details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Thesis: | 
-            Development of in-situ light-directed oligonucleotides synthesis system, Advisor:Honggu Chun
+         Thesis-Development of in-situ light-directed oligonucleotides synthesis system, Advisor:Honggu Chun
          
            
       - degree: BSc in Biomedical Engineering
         university: Dongguk University
         time: 2017-2021
          details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Thesis - Study on temperature sensing nanomaterials and the fabrication of patch type temperature sensor, Advisor-Jinsik Kim
-            - Bullet point
+         Thesis-Study on temperature sensing nanomaterials and the fabrication of patch type temperature sensor, Advisor-Jinsik Kim
+
 
 experiences:
     title: Experiences
