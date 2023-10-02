@@ -38,24 +38,16 @@ education:
     info:
       - degree: MSc in Biomedical Engineering 
         university: Korea University
-        time: 2022 - present
+        time: 2022 - present (Expected graduation date: Feb, 2024)
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Thesis - Development of in-situ light-directed oligonucleotides synthesis system
             - Bullet point
             - Bullet point
       - degree: BSc in Biomedical Engineering
         university: Dongguk University
         time: 2017 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Thesis - Study on temperature sensing nanomaterials and the fabrication of patch type temperature sensor, Advisor-Jinsik Kim
             - Bullet point
             - Bullet point
 
