@@ -45,8 +45,9 @@ education:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Thesis - Development of in-situ light-directed oligonucleotides synthesis system, Advisor:Honggu Chun
-            - Bullet point
+            - Thesis: | 
+            Development of in-situ light-directed oligonucleotides synthesis system, Advisor:Honggu Chun
+         
            
       - degree: BSc in Biomedical Engineering
         university: Dongguk University
