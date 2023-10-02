@@ -31,10 +31,12 @@
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
       {% if project.image %}
+      <div>
       <img
       src="{{ site.baseurl }}/assets/images/{{ project.image }}"
       alt="images"
       />
+      </div>
       {% endif %}
     </div><!--//item-->
   {% endfor %}
