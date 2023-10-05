@@ -95,18 +95,16 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     
     assignments:
-      - title: Velocity
+      - title: Light-directed oligonucleotide synthesis. 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Maskless Array Synthesis for DNA data storage"
         image : Overall system of MAS.png
         
-      - title: DevStudio
+      - title: Maskless photolithography.
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Development of maskless lithography system and oligonucleotide synthesis."
         image : Lithography.png
       - title: Tempo
         link: "#"
